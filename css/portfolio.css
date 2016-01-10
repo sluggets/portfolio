@@ -1,0 +1,25 @@
+body
+{
+    font-family: 'Dosis', sans-serif;
+    background-color:#e5e5ff;
+}
+
+#timpic
+{
+  box-shadow: 10px 10px 5px lightgrey;
+  margin: auto;
+}
+
+h1
+{
+  font-size: 5em;
+  font-weight: 500;
+  color: rgba(34, 12, 64, 0.3);
+}
+
+.custom-align
+{
+  text-align: center;
+}
+
+
