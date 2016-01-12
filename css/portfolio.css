@@ -17,9 +17,38 @@ h1
   color: rgba(34, 12, 64, 0.3);
 }
 
+h2
+{
+  color: darkgoldenrod;
+}
+
 .custom-align
 {
   text-align: center;
 }
 
+.navback
+{
+  /*background-color: rgba(179, 179, 255, 0.5)*/
+  background: linear-gradient(to right,#e5e5ff,rgba(179, 179, 255, 0.5),#e5e5ff);
+
+}
+
+li
+{
+  color: rgba(34, 12, 64, 0.3);
+}
+
+.nav>li>a:hover
+{
+  color: #f3bf3f; 
+  background-color: rgba(179, 179, 255, 0.1) ;
+}
+
+nav
+{
+  font-size: 1.5em;
+  margin: 0 auto;
+  display: table;
+}
 
