@@ -14,7 +14,7 @@ h1
 {
   font-size: 5em;
   font-weight: 500;
-  color: rgba(34, 12, 64, 0.3);
+  color: #445fa4;
 }
 
 h2
@@ -36,13 +36,14 @@ h2
 
 li
 {
-  color: rgba(34, 12, 64, 0.3);
+  color: #445fa4;
 }
 
 .nav>li>a:hover
 {
-  color: #f3bf3f; 
+  color: darkgoldenrod; 
   background-color: rgba(179, 179, 255, 0.1) ;
+  text-shadow: 0.5px 0.5px 0.5px #F0C250;
 }
 
 nav
