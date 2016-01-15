@@ -4,10 +4,20 @@ body
     background-color:#e5e5ff;
 }
 
+#top-row
+{
+  margin-bottom: 15em;
+}
+
 #timpic
 {
-  box-shadow: 10px 10px 5px lightgrey;
+  box-shadow: 10px 10px 5px rgba(204, 204, 204, 0.9);
   margin: auto;
+}
+
+.icon-center
+{
+  font-size: 2em;
 }
 
 h1
@@ -52,4 +62,5 @@ nav
   margin: 0 auto;
   display: table;
 }
+
 
