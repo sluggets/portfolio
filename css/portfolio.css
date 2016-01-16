@@ -4,7 +4,8 @@ body
     background-color:#e5e5ff;
 }
 
-#top-row
+
+.row-margin
 {
   margin-bottom: 15em;
 }
@@ -30,6 +31,11 @@ h1
 h2
 {
   color: darkgoldenrod;
+}
+
+p
+{
+  font-size: 1.5em;
 }
 
 .custom-align
