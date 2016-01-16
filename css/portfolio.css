@@ -69,4 +69,26 @@ nav
   display: table;
 }
 
+#icon-space
+{
+  margin-left: 10px; 
+  margin-right: 10px; 
+}
 
+.link-change a
+{
+  color: darkgoldenrod;
+  font-size: 1.5em;  
+  font-weight: bold;
+}
+
+.link-change li
+{
+  margin-bottom: 1.5em;
+}
+
+#this
+{
+  font-weight: normal;
+  font-size: 1em;
+}
