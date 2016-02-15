@@ -1,13 +1,22 @@
 body
 {
-    font-family: 'Dosis', sans-serif;
-    background-color:#e5e5ff;
+  font-family: 'Dosis', sans-serif;
+  background-color:#e5e5ff;
 }
 
+p
+{
+  padding: 5px;
+}
 
 .row-margin
 {
   margin-bottom: 15em;
+}
+
+.row-one-margin
+{
+  margin-bottom: 5em;
 }
 
 #timpic
