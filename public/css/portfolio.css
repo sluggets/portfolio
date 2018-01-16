@@ -42,10 +42,6 @@ h2
   color: darkgoldenrod;
 }
 
-h3>a
-{
-  color: #785807;
-}
 
 .synopsis
 {
@@ -112,4 +108,9 @@ nav
 {
   font-weight: normal;
   font-size: 1em;
+}
+
+h3>a
+{
+  color: #785807;
 }
